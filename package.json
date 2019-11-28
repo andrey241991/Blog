@@ -1,0 +1,15 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/andrey241991/Blog.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
